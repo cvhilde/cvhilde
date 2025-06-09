@@ -1,7 +1,7 @@
 ## Hi there 👋
 Interested in learning about Git and Github, and how it allows me to be more profficient with coding.  
-Currently developing a rally pace notes app for IOS and Android.  
-Motocross, dirt biking, and ACC (sim racing) and some of my hobbies.  
+Currently developing a lap timer app for IOS and Android.  
+Motocross, dirt biking, and ACC (sim racing) are some of my hobbies.  
 
 <!--
 **cvhilde/cvhilde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
