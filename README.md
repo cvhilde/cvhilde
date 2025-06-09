@@ -1,6 +1,6 @@
 ## Hi there 👋
 Interested in learning about Git and Github, and how it allows me to be more profficient with coding.  
-Currently developing a lap timer app for IOS and Android.  
+Currently developing a lap timer app for IOS to work with an ESP32.  
 Motocross, dirt biking, and ACC (sim racing) are some of my hobbies.  
 
 <!--
